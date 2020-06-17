@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+ 
+   <head>
+     
+   <meta charset="utf-8">
+  
+      <title>Geetha's blog</title>
+  
+      <style>
+  
+    #Learning-HTML
+ {
+        background-color: rgb(237, 17, 237);
+  
+      font-size:1.25em;
+   
+     line-height: 1.34em;
+ 
+       font-family:Helvetica;
+  
+    }
+      
+ #Edu-reka{
+  
+         background-color: rgb(235, 40, 18);
+ 
+       font-size:1.15em;
+  
+      line-height: 1.25em;
+ 
+       font-family:Helvetica;
+
+       }
+   
+    #W3-Schools{
+ 
+         background-color: rgb(235, 40, 18);
+
+        font-size:1.15em;
+  
+      line-height: 1.25em; 
+ 
+       font-family:Helvetica;
+
+       }
+           
+  
+    #Course-era{
+  
+        background-color: rgb(235, 40, 18);
+ 
+       font-size:1.15em;
+  
+      line-height: 1.25em;
+ 
+       font-family:Helvetica;
+  
+    }
+      
+ #Khan-Academy{
+
+          background-color: rgb(235, 40, 18);
+ 
+       font-size:1.15em;
+ 
+       line-height: 1.25em;
+ 
+       font-family:Helvetica;
+ 
+      }
+  
+      p{
+ 
+           font-family:Helvetica;
+ 
+           font-size:12px;
+   
+         font-style:italic;
+   
+         font-weight:bold;
+ 
+           line-height: 1.34em;
+ 
+           color:rgb(28, 36, 2);
+ 
+          
+        }
+        h5{
+ 
+           text-align:right;
+  
+      }
+       
+ h3{
+   
+          text-align:center;
+ 
+           font-family:Helvetica;
+   
+         color: rgb(26, 19, 240);
+   
+     }
+            
+ h1{
+   
+               text-align:center;
+
+                  font-family:Helvetica;
+
+                  background-color: rgb(148, 235, 18);
+   
+               color: rgb(214, 45, 93);
+ 
+                 
+             }
+ 
+       }
+ 
+       
+        }
+</style>
+   
+ </head>
+ 
+   <body>
+     
+   
+        <h1>Geetha's blog</h1>
+<h5 id="top"> Top</h5>
+
+        <h3>Contents</h3>
+   
+     <ul>
+ 
+           <li><a href="#Learning-HTML">HTML Learning Experience. </a></li>
+ 
+       </ul>
+  
+      <ol> 
+ 
+          <li><a href="#Edu-reka"> Edureka. </a> </li>
+ 
+          <li><a href="#W3-Schools">W3Schools.</a> </li>
+ 
+          <li><a href="#Course-era">Coursera. </a> </li>
+
+           <li><a href="#Khan-Academy">Khan Academy. </a> </li>
+ 
+       </ol>
+      
+  
+        <h3 id= "Learning-HTML">Learning Experience of HTML!</h3>
+
+        <h6>Posted on 10th Dec 2019</h6>
+ 
+       
+        <p> I wanted to learn HTML, CSS for a long time so that I develop some good looking nice sites. So I was searching to find out from which site I could learn HTML. So in this blog I explain how I happened to reach each site and finally landed on Khan Academy where I am making progress with confidence.</p>
+<a href="#top">Top</a>
+ 
+       <h3 id= "Edu-reka">Edureka.</h3>
+ 
+
+       <h6>Posted on 20th Jan 2020</h6>
+ 
+       
+        <p> One of my acquaintances suggested me to continue with Edureka and he suggested it is a good site to learn HTML. But then I was not satisfied since  felt it was not dealt in systematically and the tutor there referred to W3 Schools. So I decided to give W3Schools a try.</p>
+<a href="#top">Top</a>
+ 
+       <h3 id= "W3-Schools">W3Schools.</h3>
+
+        <h6>Posted on 31st Jan 2020</h6>
+ 
+       
+        <p> Then I started with W3Schools. I was continuing in W3Schools for long and I almost finished HTML and CSS and JS were pending. But still I was not very clear since CSS was also included when dealing with HTML which was to be studied later separately. Then there was a mail from Cousera that there is a couse on web development. so I decided to give it a try.</p>
+<a href="#top">Top</a>
+ 
+       <h3 id= "Course-era">Coursera.</h3>
+ 
+       <h6>Posted on 25th May 2020</h6>
+  
+      
+        <p> I enrolled in a free HTMl course in Coursera. The tutor had started with web development tools. He uses GitHub as a repository of codes for HTML. I regitered with GitHub downloaded Git Cmd. But then the tutor was using an outdated version and so I got struck. Then I was reading some comments where  one has recommended Khan Academy for learning HTML in a short time. So I decided to give it a try.</p>
+ 
+       <a href="#top">Top</a>
+
+        <h3 id= "Khan-Academy">Khan Academy.</h3>
+ 
+       <h6>Posted on 1st Jun 2020</h6>
+  
+      
+        <p> I enrolled in Khan Academy for learning HTML. The course is very well designed and there is a project to be done at the end of each chapter. this gives a clear understanding of whatever has been dealt with in that chapter and so I have developed an interest  and I a progressing confidently thanks to Khan Academy. Kudos to the team for their great contribution!. Keep going!!!.</p>
+
+ <a href="#top">Top</a>  
+     
+    </body>
+
+</html>
